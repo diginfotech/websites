@@ -1,0 +1,56 @@
+# websites
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>My web page</title>
+</head>
+<body>
+    <h1>All About Me</h1>
+
+    <p>My name is Victoria. I live in Nigeria. Ibadan is a place to be. Its a land that preserve its cultural heritage.</p><a href="https://victoriatolulade.blogspot.com"> Learn more</a>
+
+    <blockquote>
+        <p>The gift of a man make room for him. What skill have you added recently?</p>
+        <p> You can do It</p>
+        <cite>Victoria Tolulade</cite>
+    </blockquote>
+    <blockquote>
+    <p>Here is a picture of myself. Visit my personal website to read more<a href="https://victoriatolulade.blogspot.com/?m=1">about me</a>and what I do. </p>
+        <cite>Victoria Tolulade</cite>
+    </blockquote>
+
+    <p>Here are a few pictures of my designs</p>
+
+    <img src="https://diginfotechware.blogspot.com/" alt="" title="">
+
+
+    
+    <h2>My Favourite Links</h2>
+        <p>These are some of the sites I manage.</p>
+        <ul>
+            <li><a href="https://splendor-creations.business.site" target="_blank">Slpendor Creations Kmitting and Fashions</a></li>
+            <li><a href="https://diginfotechnologies.wordpress.com/" target="_blank">Diginfo Technologies</a></li>
+        <p>Read interesting articles on my blogsite and leave us a comment. I value your feedback</p>
+
+            <li><a href="https://diginfotechnologies.blogspot.com/" target="">How to Successfully setup a paypal account that sends and receive money in Nigeria</a></li>
+            <li><a href="victoriatolulade.blogspot.com/?m=1" target="_blank">Harvard Extension School</a></li>
+        </ul>
+
+    <h2>How to read deleted messages on Whatsapp</h2>
+    <p>READ DELETED MESSAGE ON WHATSAPP
+    All of you must have been using WhatsApp, have you seen someone sending a message and also delete on WhatsApp and you were not able to read that message and now you want to know what was written in the message, so now you can easily do that.
+
+If you want to read the deleted message on WhatsApp, then this post can be useful for you.
+WhatsApp is a chatting app in which you can chat, delete messages, but you cannot re-read deleted messages, nor is there any setting in WhatsApp that you can turn on and read that message again.<a href="https://diginfotechware.blogspot.com/2021/01/read-deleted-message-on-whatsapp.html?m=1">Learn more</a>
+
+    <footer>
+    <p><a href="https://www.facebook.com/victoria.t.omotoso">Let's connect on
+    <strong>Facebook</strong></a> <a href=https://www.Instagram.com/victoriatolulade> <em>Instagram</em>
+    </p>
+    </footer>
+</body>
+</html>
